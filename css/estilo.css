@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+#cont {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    padding: 10px;
+    width: 70%;
+    margin-left: 15%;
+}
+#t1 {
+    background-color: #FEFFDA;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+#t2 {
+    background-color: #FFEAEA;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t3 {
+    background-color: #DCFFFE;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t1 p img {
+    float: left;
+    padding-right: 10px;
+}
+#t2 p img {
+    float: right;
+    padding-left: 10px;
+}
+#t3 p img {
+    float: left;
+    padding-right: 10px;
+}
+#menu {
+    background-color: #8ABCFF;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
